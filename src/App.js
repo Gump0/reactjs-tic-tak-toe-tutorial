@@ -1,3 +1,4 @@
+import "./App.css";
 import { use, useState } from "react";
 
 function Square({value, onSquareClick}) {
